@@ -45,7 +45,7 @@ If you are new to Azure App Service, see:
 * You should see a new GitHub Action initiated in **Actions** tab.
 * At the end of the execution, navigate to the App URL to visualise the change introduced.
 
-## Workflow YAML explained
+## Workflow YAML explainedd
 
 * [Checkout](https://github.com/actions/checkout) Checks out your Git repository content into Github Actions agent.
 * Environment setup using [Setup MSBuild](https://github.com/microsoft/setup-msbuild) - Sets up a ms-build environment by optionally downloading and caching a version of dotnet by SDK version and adding to PATH .
